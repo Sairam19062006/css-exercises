@@ -1,0 +1,27 @@
+#i2 {
+    color: black;
+    background-color: rgb(154, 255, 2);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.P1 {
+    color: black;
+    background-color: rgb(255, 167, 167);
+    font-size: 20px;
+    font-weight: thin;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#i1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.P1#ci1 {
+    color: black;
+    background-color: rgb(255, 167, 167);
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
